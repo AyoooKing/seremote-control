@@ -1,0 +1,9 @@
+D:\Code\SERemoteControl-master\SERemoteControl-master\SEClient\bin\Debug\SERemoteLib.dll
+D:\Code\SERemoteControl-master\SERemoteControl-master\SEClient\bin\Debug\SERemoteLib.pdb
+D:\Code\SERemoteControl-master\SERemoteControl-master\SEClient\bin\Debug\log4net.dll
+D:\Code\SERemoteControl-master\SERemoteControl-master\SEClient\bin\Debug\log4net.xml
+D:\Code\SERemoteControl-master\SERemoteControl-master\SEClient\obj\Debug\SEClient.csproj.AssemblyReference.cache
+D:\Code\SERemoteControl-master\SERemoteControl-master\SEClient\obj\Debug\SEClient.csproj.CoreCompileInputs.cache
+D:\Code\SERemoteControl-master\SERemoteControl-master\SEClient\obj\Debug\SEClient.csproj.CopyComplete
+D:\Code\SERemoteControl-master\SERemoteControl-master\SEClient\obj\Debug\SERemoteLib.dll
+D:\Code\SERemoteControl-master\SERemoteControl-master\SEClient\obj\Debug\SERemoteLib.pdb

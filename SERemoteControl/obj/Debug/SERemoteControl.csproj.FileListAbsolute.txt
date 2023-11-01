@@ -1,0 +1,17 @@
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\obj\Debug\SERemoteControl.csproj.AssemblyReference.cache
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\obj\Debug\SERemoteControl.csproj.SuggestedBindingRedirects.cache
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\obj\Debug\SERemoteControl.AboutBox.resources
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\obj\Debug\SERemoteControl.FormMain.resources
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\obj\Debug\SERemoteControl.Properties.Resources.resources
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\obj\Debug\SERemoteControl.csproj.GenerateResource.cache
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\obj\Debug\SERemoteControl.csproj.CoreCompileInputs.cache
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\bin\Debug\SERemoteControl.exe.config
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\bin\Debug\SERemoteControl.exe
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\bin\Debug\SERemoteControl.pdb
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\bin\Debug\log4net.dll
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\bin\Debug\SERemoteLib.dll
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\bin\Debug\SERemoteLib.pdb
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\bin\Debug\log4net.xml
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\obj\Debug\SERemoteControl.csproj.CopyComplete
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\obj\Debug\SERemoteControl.exe
+D:\Code\SERemoteControl-master\SERemoteControl-master\SERemoteControl\obj\Debug\SERemoteControl.pdb
